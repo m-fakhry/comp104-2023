@@ -16,6 +16,6 @@ Objective | Learn how to program
 
 ### Lectures
 
-Topic | Contents | Lecture | Assignment
----|---|---|---
-Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations |  | 
+Date | Topic | Contents | Lecture | Assignment
+---|---|---|---|---
+2/16/2023|Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations |  | 
