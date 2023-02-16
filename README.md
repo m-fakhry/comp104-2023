@@ -6,7 +6,7 @@
 
 Course | C++ - COMP 104
 ---|----
-Webpage| https://github.com/m-fakhry/comp104-2022
+Webpage| https://github.com/m-fakhry/comp104-2023
 Structure | 2 hours lecture and 2 hours lab
 Grades | 90 (final), 60 (midterm + exam + lab)
 Book | Programming with C++, John R. Hubbard, Schaum’s outline series, 2000.
