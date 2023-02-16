@@ -1,6 +1,6 @@
 # C++ - 2022-2023
 
-- Repo for "the Introduction to programming language" course - COMP 104 for the 2021-2022 academic year at Ain Shams University
+- Repo for "the Introduction to programming language" course - COMP 104 for the 2022-2023 academic year at Ain Shams University
 
 ### Logistics
 
