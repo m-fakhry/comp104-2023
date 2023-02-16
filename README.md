@@ -18,4 +18,4 @@ Objective | Learn how to program
 
 Topic | Contents | Lecture | Assignment
 ---|---|---|---
-Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations | [Lecture 1]() | [Assignment 1]()
+Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations |  | 
