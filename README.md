@@ -19,4 +19,4 @@ Lecture| Thursday 10-12 (Hall G).
 
 Date | Topic | Contents | Lecture | Assignment
 ---|---|---|---|---
-2/16/2023|Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations |  | 
+2/16/2023|Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
