@@ -22,3 +22,4 @@ Date | Topic | Contents | Lecture | Assignment
 ---|---|---|---|---
 2/16/2023| Introduction | basic forms of C++ program, library, cout with different forms, arithmetic operations | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
 2/23/2023| Data types | data types, variables, cin, assignment statement, casting | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
+3/2/2023| Arithmetic operators, Conditional statement | increment/decrement operators, composite operators, precedence, if statement, if-else statement, comparison operators | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
