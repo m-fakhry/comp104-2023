@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 5
 
 1. Write and run a program that reads a six-digit integer and prints the sum of its six digits. Use the quotient operator / and the remainder operator % to extract the digits from the integer. For example, if n is the integer 876,543, then n/1000%10 is its thousands digit 6.
 
