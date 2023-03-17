@@ -24,3 +24,4 @@ Date | Topic | Contents | Lecture | Assignment
 2/23/2023| Data types | data types, variables, cin, assignment statement, casting | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
 3/2/2023| Arithmetic operators, Conditional statement | increment/decrement operators, composite operators, precedence, if statement, if-else statement, comparison operators | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
 3/9/2023| Operators and Conditional statement | enum, logical operators, short-circuits,  nested-if, switch statement | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
+3/16/2023| Midterm Exam | - | - | [Assignment 5](Assignments/assignment5.md)
